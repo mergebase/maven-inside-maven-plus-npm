@@ -1,0 +1,10 @@
+{
+  "name": "vulnerable",
+  "version": "9.8.7",
+  "private": true,
+  "dependencies": {
+    "@types/express" : "4.17.13",
+    "jquery-ui": "1.12.1",
+    "ua-parser-js": "^0.7.29"
+  }
+}
